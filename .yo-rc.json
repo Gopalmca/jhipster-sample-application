@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "SampleApp",
+    "packageName": "com.sample",
+    "packageFolder": "com/sample",
+    "serverPort": 9090,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "gatling"
+    ],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.1",
+    "jwtSecretKey": "ZDc0Y2JhNTY5M2U0ODNjZmFkMjZlZDQzMWIxOGY1NGE0NThiZTNlYTNlYWZlN2YyMmIwMGFmMWQ3NDVjY2Y3N2YyYjc3ZTMxYTc2MGJkYTU5MGVkMmVkMzQ2NWZhN2MwOGRlNGE3N2E2NjU1MDUwNTRhOGQ2ZTBiZmI0OWQzY2Q=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "Gopalmca",
+  "repository-name": "jhipster-sample-application"
+}
